@@ -16,7 +16,7 @@ async def _(event):
 Python {}
 Telethon {}
 
-**Custom Built Fork**: https://github.com/ravana69/UniBorg""".format(
+**Fork**: https://github.com/zeususerbot/UniBorg""".format(
         sys.version,
         __version__
     )
